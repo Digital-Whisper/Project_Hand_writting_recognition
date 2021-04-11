@@ -1,1 +1,1 @@
-# Project_Hand_writting_recognition
+# Project_Hand_writing_recognition
